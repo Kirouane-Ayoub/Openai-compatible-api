@@ -11,7 +11,7 @@ For a detailed explanation of this project, check out my [blog post](https://sem
 To get started, clone the repository:
 
 ```sh
-git clone https://github.com/Kirouane-Ayoub/Openai-compatible-api
+git clone https://github.com/Kirouane-Ayoub/Openai-compatible-api.git
 ```
 
 ### Install Requirements
